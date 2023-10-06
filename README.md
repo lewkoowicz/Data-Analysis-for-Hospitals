@@ -1,6 +1,6 @@
 # Hospital Data Analysis
 
-This Python script is designed to analyze data from multiple CSV files containing information about patients in different hospitals. It performs various data cleaning and analysis tasks using the pandas library.
+This Python script is designed to analyze data from multiple CSV files containing information about patients in different hospitals. It performs various data cleaning, manipulation and analysis tasks using the pandas library.
 
 #### The code answers the following questions:
 
