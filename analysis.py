@@ -1,7 +1,5 @@
 import pandas as pd
 
-pd.set_option('display.max_columns', 8)
-
 # Read the CSV files
 general = pd.read_csv('general.csv')
 prenatal = pd.read_csv('prenatal.csv')
